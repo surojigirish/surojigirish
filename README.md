@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surojigirish
+- 👋 Hi, I’m @girishsuroji
 - 👀 I’m interested in Java Development, Web Development and Web Design
 - 🌱 I’m currently learning B.E. in computers and also skilling up my knowledge in programming
 - 💞️ I’m looking to collaborate on Project Ideas that wil help me gain industrial knowledge
