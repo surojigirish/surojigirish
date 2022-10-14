@@ -1,8 +1,8 @@
---👋 Hi, I’m @surojigirish
---👀 I’m interested in Java Development, Web Development and Web Design
---🌱 I’m currently learning B.E. in computers and also skilling up my knowledge in programming
---💞️ I’m looking to collaborate on Project Ideas that wil help me gain industrial knowledge
---📫 How to reach me? mail me at girishsuroji99@gmail.com
+- 👋 Hi, I’m @surojigirish
+- 👀 I’m interested in Java Development, Web Development and Web Design
+- 🌱 I’m currently learning B.E. in computers and also skilling up my knowledge in programming
+- 💞️ I’m looking to collaborate on Project Ideas that wil help me gain industrial knowledge
+- 📫 How to reach me? mail me at girishsuroji99@gmail.com
 
 
 <!---
